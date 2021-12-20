@@ -5,3 +5,7 @@ This file is populated with the new countries that are detected when running the
 Missing features:
 Currently there is no real data validation implemented, th program simply fails if the incorrect xml type is passed
 Logging would be added, currently only printing to the console
+
+
+Project can be built with maven commands: mvn clean install will produce a new jar file in the "target" folder that can run 
+independently so long as the correct input file arguments are passed
