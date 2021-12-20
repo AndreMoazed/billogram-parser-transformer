@@ -1,0 +1,7 @@
+In order to pass a previously seen countries list a text file with the list of
+countries should be present in the root of the project (an empty file is currently provided)
+This file is populated with the new countries that are detected when running the program.
+
+Missing features:
+Currently there is no real data validation implemented, th program simply fails if the incorrect xml type is passed
+Logging would be added, currently only printing to the console
